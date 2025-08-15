@@ -8,6 +8,7 @@ It simplifies ticket sales management for administrators with a modern interface
 # App Screenshot
 
 <img src="https://github.com/Fachrilfr/juaratiket/blob/e7cb3c5cdc0a7b92723a9b2f88800a55d43f796c/Design.png" width="auto" height="auto" >
+<img src="https://github.com/Fachrilfr/juaratiket/blob/0277fe5aa4bec8699f1276d3721d5fa8fac742e3/adminFillament.png" width="auto" height="auto" >
 
 ---
 
