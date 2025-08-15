@@ -7,7 +7,7 @@ It simplifies ticket sales management for administrators with a modern interface
 
 # App Screenshot
 
-*(Add screenshots of the Filament Admin Panel here)*
+<img src="https://github.com/Fachrilfr/juaratiket/blob/e7cb3c5cdc0a7b92723a9b2f88800a55d43f796c/Design.png" width="auto" height="auto" >
 
 ---
 
